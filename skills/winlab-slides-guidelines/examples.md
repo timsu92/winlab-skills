@@ -73,3 +73,8 @@ Content:
 ```
 
 Good. This is the slide placed before all stuffs about the results of a paper. This slide makes the audience focuses on the key points the following section includes, before looking into any details. The title "three questions" and the corresponding 3 bullet points matches, the all the questions are asking in different factors.
+
+---
+
+The word "example" can be abbreviated as "e.g.," like: Fruits, e.g., apples, bananas.
+
