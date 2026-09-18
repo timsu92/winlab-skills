@@ -46,6 +46,7 @@ The audience reads each slide for a few seconds. The key point must land in thos
 - **MUST** make the main takeaway of each slide visually or structurally obvious — bold, color, callout box, position, or a one-line summary at the top
 - **MUST NOT** bury the key conclusion inside dense paragraphs, inside a table cell, or at the end of a long bullet list
 - **MUST** make sure that anyone glancing at the slide can identify the main point without reading every word
+- **MUST** conform the "old before new" idiom: put only one new idea in a sentence, and you must mention a knowledge told before, and then new thoughts
 - **SHOULD** state the conclusion of the slide explicitly, not leave the audience to infer it from the data
 - **SHOULD** use one slide = one point — if the audience cannot tell you in one sentence what the slide said, the slide failed
 
@@ -77,6 +78,7 @@ The goal is topic cohesion — not slide minimization, not slide maximization.
 
 - **MUST** include step descriptions for flowcharts, pipelines, and any content related to step sequences or timing
 - **MUST** align the definition of blocks and connection lines, e.g. all the blocks are functions, while all the lines presents the dataflow, and descriptions over the lines define what data being sent
+- **SHOULD** draw programs/operator as blocks which operates data, and use arrows to present the direction of data being sent, and data written in text can be put above or below the arrow if applicable.
 
 ## Review Checklist
 
